@@ -1,0 +1,83 @@
+1.weather forecast of bangalore
+2.battery percentage
+3.open all apps in this computer
+4.almost open all folders and files
+5.location function
+6.dictionary + synonyms + antonyms function
+7.hindi to english translation
+8.open websites
+9.chrome automation
+10.youtube automation
+11.play any video in YT
+12.send Email with and without attaching a file
+13.do maths calculations
+14.set alarm
+15.switch tab
+16.read audio books
+17.get info from wikipedia
+18.search for things and extract information for you
+19.general talk(hi,how are you,good to hear,etc.)
+20.proper exit
+21.recording voice
+22.record video
+23.wake up hot word
+24.sleep hot word
+25.Time + Month + Year + Date function
+26.remembering feature
+27.To-Do list feature
+28.repeat after you
+29.set timer
+30.proper shutdown
+31.take a screenshot
+32.close applications
+33.translate line to french
+34.translate line to kannada
+35.translate line to marathi
+36.tell you the latest news
+37.download youtube videos without url
+38.wish function when you login
+39.search stuff in google automatically using voice command
+40.Whatsapp Automation - call(audio), call(video), text(message)
+41.To-Do list Function
+42.Record Screen
+43.Own Browser Application
+44.Telegram Automation - Calling and texting
+45.Timer and Stopwatch feature
+46.Telegram Video Call
+47.Stand-by Mode
+48.calender
+49.passcode to start
+50.Oda automation
+51.Argus Classes Automation
+52.Argus logout
+53.Face Recognition
+54.TimeTable Feature
+55.Chat_Bot
+56.Speaking Chat_Bot
+
+spanish - es
+portugese - pt
+punjabi - pa
+german - de
+arabic -  ar
+dutch - nl
+gujrati - gu
+greek - el
+malyalam - ml
+italian - it
+korean - ko
+chinese - zh-cn
+japenese - ja
+bengali - bn
+bulgarian - bg
+hawaiian - haw
+hungarian - hu
+
+google improvement
+
+#You Can Personalise Your Commands As Well!!!
+#Every thing is through voice command!!!
+#You Can Add More Languages as well!!!
+#If You Have Windows You Can Also Add More Voices!!!
+#You Can Also Make A Custom Voice!!!
+#Jarvis's Sister Friday Coming Soon!!!  ;););)
